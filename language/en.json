@@ -1,0 +1,6 @@
+{
+  "libraryStrings": {
+    "maxColumnsRequired": "You have to input the number of columns when the \"Enforce number of columns\" option is selected.",
+    "maxColumnsExceeded": "You cannot use a bigger number than your card count."
+  }
+}
